@@ -17,6 +17,11 @@ class ViewController: UIViewController {
     
     private func doNothing() {
         print("Nothing")
+        doNothingTwo()
+    }
+    
+    private func doNothingTwo() {
+        print("Nothing2")
     }
 
 }
