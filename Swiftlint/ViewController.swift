@@ -1,10 +1,3 @@
-//
-//  ViewController.swift
-//  Swiftlint
-//
-//  Created by Tsaruk Nick on 6.04.24.
-//
-
 import UIKit
 
 class ViewController: UIViewController {
@@ -23,6 +16,4 @@ class ViewController: UIViewController {
     private func doNothingTwo() {
         print("Nothing2")
     }
-
 }
-
